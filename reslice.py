@@ -1,6 +1,6 @@
 """
 This example illustrates loading multiple files, sorting them by slice location, building a 3D image and reslicing
-it in different planes.
+it in different planes..
 """
 
 import pydicom
